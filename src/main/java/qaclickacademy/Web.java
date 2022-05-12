@@ -10,5 +10,9 @@ public class Web {
 		System.out.println("Hii");
 	}
 	
+	public void abc2() {
+		System.out.println("Hii");
+	}
+	
 
 }
