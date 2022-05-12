@@ -1,15 +1,5 @@
-Alphabets
+Albhabets
 A
 B
 C
 D
-E
-
-
-Numbers
-1
-2
-3
-4
-5
-6
